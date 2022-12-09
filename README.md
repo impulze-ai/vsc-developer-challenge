@@ -43,4 +43,3 @@ If not, execute the command `npm run watch`
 - You can show some awesomeness if you can write the test cases within the given time. But it’s not mandatory.
 - The review committee will evaluate the code for accuracy, efficiency, and readability
 
-## Good Luck!
