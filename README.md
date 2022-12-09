@@ -21,6 +21,7 @@ If you lack some inspiration, refer to the screenshot below on how an another de
     - [VS Code Developer Docs](https://code.visualstudio.com/api)
     
 2. Refer to the link to know how to debug the VS Code extensions :[Link](https://code.visualstudio.com/api/get-started/your-first-extension)
+3. You can get the currency rates data from `rates.json` file on the root folder -> [Link to the file](https://github.com/impulze-ai/vsc-developer-challenge/blob/master/rates.json)
 
 ## Sharing your work /  result
 
