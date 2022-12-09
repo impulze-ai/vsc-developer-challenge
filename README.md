@@ -1,4 +1,4 @@
-## Jr JS Developer Challenge
+## JS Developer Challenge
 We deeply value adaptability and a learning mindset for our engineering hires. We believe It helps to foster a culture of continuous improvement and innovation by challenging developers to think outside the box and come up with creative solutions to problems.
 
 As a developer, we believe you must hear about VS code and its extension marketplace. Here is a coding challenge to build a VS code extension. We are not expecting you to have a prior experience with VS Code extensions and the objective here is to measure how fast you can capture new concepts.
