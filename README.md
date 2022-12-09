@@ -1,71 +1,45 @@
-# vsc-currency README
+## Jr JS Developer Challenge
+We deeply value adaptability and a learning mindset for our engineering hires. We believe It helps to foster a culture of continuous improvement and innovation by challenging developers to think outside the box and come up with creative solutions to problems.
 
-This is the README for your extension "vsc-currency". After writing up a brief description, we recommend including the following sections.
+As a developer, we believe you must hear about VS code and its extension marketplace. Here is a coding challenge to build a VS code extension. We are not expecting you to have a prior experience with VS Code extensions and the objective here is to measure how fast you can capture new concepts.
 
-## Features
+## Problem Statement:
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Assume you are working on a fintech product and you do currency conversion frequently throughout the day at work. As a developer, you spend most of the time with your code editor and you are using VS code. You are a productivity freak and want to find the currency conversion rates without leaving your code editor. 
 
-For example if there is an image subfolder under your extension project workspace:
+You created a VS Code extension that helps you get currency conversion rates instantly in the browser. We would like to see how you do it. Consider the fact you can’t allow more than 4 hours for it. 
 
-\!\[feature X\]\(images/feature-x.png\)
+If you lack some inspiration, refer to the screenshot below on how an another developer at impulze did it. But if you have a better idea, we welcome that too!
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Sample Output:
 
-## Requirements
+## Getting Started
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+1. Here we are providing you the boilerplate for creating the vscode extension or you can setup the environment referring the VSCode Developer docs.
 
-## Extension Settings
+    - [Boilerplate Code](https://github.com/impulze-ai/vsc-developer-challenge)
+    - [VS Code Developer Docs](https://code.visualstudio.com/api)
+    
+2. Refer to the link to know how to debug the VS Code extensions :[Link](https://code.visualstudio.com/api/get-started/your-first-extension)
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Sharing your work /  result
 
-For example:
+We want you to create a public GitHub repo either by creating one or forking the [provided repo](https://github.com/impulze-ai/vsc-developer-challenge) and sharing the URL as a reply to the email.
 
-This extension contributes the following settings:
+## Resources📘:
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+Here are some resources for you to get things close.
 
-## Known Issues
+- [Boilerplate for creating vscode extension](https://github.com/impulze-ai/vsc-developer-challenge)
+- [Vscode documentation for creating extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+- [Using webview in vscode extension](https://code.visualstudio.com/api/extension-guides/webview)
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+## Success Tips💡
 
-## Release Notes
+- If the forked boilerplate code is not running, probably you should update your vscode version in package.json. [Refer here for more.](https://stackoverflow.com/questions/50748695/vs-code-extension-helloworld-sample-in-typescript-is-not-working)
+- If the you receive any instance of command execution error, make sure that directory “out” exists. 
+If not, execute the command `npm run watch`
+- Write meaningful commit messages
+- You can show some awesomeness if you can write the test cases within the given time. But it’s not mandatory.
+- The review committee will evaluate the code for accuracy, efficiency, and readability
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
