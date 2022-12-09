@@ -14,7 +14,7 @@ If you lack some inspiration, refer to the screenshot below on how an another de
 
 ## Sample Output:
 
-![alt text](https://github.com/impulze-ai/vsc-developer-challenge/images/sample.gif)
+![alt text](https://github.com/impulze-ai/vsc-developer-challenge/blob/master/images/sample.gif)
 
 ## Getting Started
 
