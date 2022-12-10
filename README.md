@@ -41,9 +41,9 @@ Here are some resources for you to get things close.
 ## Success Tips💡
 
 - If the forked boilerplate code is not running, probably you should update your vscode version in package.json. [Refer here for more.](https://stackoverflow.com/questions/50748695/vs-code-extension-helloworld-sample-in-typescript-is-not-working)
-- If the you receive any instance of command execution error, make sure that directory “out” exists.
+- If you receive any instance of command execution error, make sure that directory “out” exists.
   If not, execute the command `npm run watch`
-- Please set option ***enableScripts: true*** inorder to avoid javascript blocking on webview.
+- Set option ***enableScripts: true*** inorder to avoid javascript blocking on webview.
 - Write meaningful commit messages
 - You can show some awesomeness if you can write the test cases within the given time. But it’s not mandatory.
 - The review committee will evaluate the code for accuracy, efficiency, and readability
