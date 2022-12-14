@@ -8,7 +8,7 @@ As a developer, we believe you must hear about VS code and its extension marketp
 
 Assume you are working on a fintech product and you do currency conversion frequently throughout the day at work. As a developer, you spend most of the time with your code editor and you are using VS code. You are a productivity freak and want to find the currency conversion rates without leaving your code editor.
 
-You created a VS Code extension that helps you get currency conversion rates instantly in the browser. We would like to see how you do it. Consider the fact you can’t allow more than 4 hours for it.
+You created a VS Code extension that helps you get currency conversion rates instantly in the code editor. We would like to see how you do it. Consider the fact you can’t allow more than 4 hours for it.
 
 If you lack some inspiration, refer to the screenshot below on how an another developer at impulze did it. But if you have a better idea, we welcome that too!
 
